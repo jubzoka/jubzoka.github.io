@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.htmlsave.net	TRUE	/	FALSE	1999999999	__cfduid	d77758832fbbfd4c53890064226ba658e1610815299
+600314bb072eb.htmlsave.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+.weatherwidget.io	TRUE	/	FALSE	1999999999	__cfduid	dac8ebd9d2ad14adc4a33f0593c74841c1610815304
+weatherwidget.io	TRUE	/	FALSE	1999999999	SameSite	Lax
+
